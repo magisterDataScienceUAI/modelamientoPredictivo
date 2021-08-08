@@ -1,37 +1,43 @@
 ## TRABAJO GRUPAL N°1
 
-You can use the [editor on GitHub](https://github.com/magisterDataScienceUAI/modelamientoPredictivo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Acá podrá encontrar todo lo relacionado a los talleres del curso de Modelamiento Predicivo. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Nuestro Equipo
 
-### Markdown
+Se compone de 7 integrantes, que los mencionaremos a continuación.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Romulo Leiva
+2. José
+3. Luis
+4. Roosevelt
+5. Fernando Muñoz.
+6. Marcos
+7. Felipe Donoso.
 
-```markdown
-Syntax highlighted code block
+### Pregunta 1, resumir el entendiemiento respecto al tópico Empresa Data Driven.
 
-# Header 1
-## Header 2
-### Header 3
+En nuestra opinión, las empresas Data Driven las resumiríamos con la siguiente frase:
 
-- Bulleted
-- List
+**"Compromiso con el Dato"**
 
-1. Numbered
-2. List
+Hoy en día estamos en la era del dato y es un cambio de paradigma respecto a que las empresas se movían en función de intuiciones y la experiencia de sus directivos.
 
-**Bold** and _Italic_ and `Code` text
+Destacamos los componentes más importantes:
 
-[Link](url) and ![Image](src)
-```
+1. El consumidor
+2. La forma de comprar
+3. Los medios
+4. Como interactúa el consumidor con las marcas
+5. Lo más importante la tecnología.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Debido a la tecnología y al internet, ahora es posible recolectar más y mejores datos, además podemos almacenarlos, clasificar y analizar dicha información, todo con el fin de poder tomar mejores decisiones.
 
-### Jekyll Themes
+**Sus características:**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/magisterDataScienceUAI/modelamientoPredictivo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Priorizar los datos, tomando todas las decisiones en función de ellos. Además esa data debe estar accesible a todos los empleados. Debe contar con la capacidad de realizar analítica de datos avanzada y compartirla, también debe estar en constante búsqueda de nuevas formas de datos. Con esto facilitará la toma de decisiones de la compañía de manera rápida y eficaz.
 
-### Support or Contact
+Para mayor información visite:  [Kanban Modelamiento Predictivo](https://github.com/magisterDataScienceUAI/modelamientoPredictivo/projects/1).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Dudas o consultas
+
+Favor de contactarse con: felipe.donoso.tapia@gmail.com.
